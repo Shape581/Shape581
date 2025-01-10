@@ -5,7 +5,7 @@
 </div>
 <h2 align="center">🔧・Outil</h2>
 <p align="center">
-  <code><img title="Visual Studio" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/VisualStudio-Light.svg"></code>
+  <code><img title="Visual Studio" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-dark.svg"></code>
 </p>
 <h2 align="center">📦・Language</h2>
 <p align="center">
