@@ -11,6 +11,7 @@
 <p align="center">
   <code><img title="CSharp" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img title=".NET" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
+  <code><img title="Python" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 </p>
 <h2 align="center">🔗・Mon Profil GitHub</h2>
 <div align="center">
