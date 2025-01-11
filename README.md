@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur+CSharp;Développeur+de+Plugin+Nova-Life;Développement+de+Plugin+personaliser+pour+Nova-Life&center=true&size=40&color=#ffffff" height="55">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur+CSharp;Développeur+de+Plugin+Nova-Life;Développement+de+Plugin+personaliser+pour+Nova-Life&center=true&size=35&color=#ffffff" height="55">
   </a>
 </div>
 <h2 align="center">🔧・Outil</h2>
