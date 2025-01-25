@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=shape581&color=fb4362)
+![](https://komarev.com/ghpvc/?username=shape581&color=001f42)
 
 ## 🔍・GitHub Stat's
 
