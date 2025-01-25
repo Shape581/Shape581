@@ -1,20 +1,20 @@
 ![](https://komarev.com/ghpvc/?username=shape581&color=001f42)
 
-## 🔍・GitHub Stat's / Statistique・🔍
+## 🔍・GitHub Stat's
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shape581&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Stats Graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shape581&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="150" alt="Languages Graph">
 </div>
 
-## 🔧・Tools / Outils・🔧
+## 🔧・Tools
 
 <p align="center">
   <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"></code>
   <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
 </p>
 
-## 📚・Language / Langue・📚
+## 📚・Language
 
 <p align="center">
   <code><img title="CSharp" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
