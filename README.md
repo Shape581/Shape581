@@ -6,6 +6,6 @@
 
 <div>
   <a href="https://discord.com/users/625342643068731392">
-    <img width="350" src="https://lanyard.kyrie25.me/api/625342643068731392?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117" alt="Discord Status">
+    <img width="100" src="https://lanyard.kyrie25.me/api/625342643068731392?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117" alt="Discord Status">
   </a>
 </div>
