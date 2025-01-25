@@ -1,11 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=shape581&color=001f42)
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+!;Développeur+CSharp&center=true&size=40&color=001f42" height="35">
-  </a>
-</div>
-
 ## 🔍・GitHub Stat's
 
 <div align="center">
