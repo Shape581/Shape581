@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur+CSharp;Développeur+de+Plugin+Nova-Life&center=true&size=38&color=001f42" height="35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur+CSharp;Développeur+de+Plugin&center=true&size=40&color=001f42" height="35">
   </a>
 </div>
 
