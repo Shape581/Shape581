@@ -1,6 +1,7 @@
-## Statistiques GitHub
-![Contributions](https://github-readme-stats.vercel.app/api?username=shape581&show_icons=true&theme=dark)
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=shape581&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shape581&show_icons=true&theme=dracula" height="150" alt="Stats Graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shape581&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph">
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
