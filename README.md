@@ -1,4 +1,4 @@
-# 🔍・GitHub Stat's
+## 🔍・GitHub Stat's
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shape581&show_icons=true&theme=transparent" height="150" alt="Stats Graph">
