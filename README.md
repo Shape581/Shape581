@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=shape581&color=001f42)
-
 <h1 align="center">Tools</h1>
 <p align="center">
   <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"></code>
