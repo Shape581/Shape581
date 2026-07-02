@@ -1,9 +1,8 @@
 <h1 align="center">Tools</h1>
 <p align="center">
   <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"></code>
-  <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
-  <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg"></code>
-  <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"></code>
+  <code><img title="Visual Studio Code" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
+  <code><img title="Intellij Idea" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"></code>
 </p>
 
 <h1 align="center">Language</h1>
@@ -13,5 +12,5 @@
   <code><img title="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
   <code><img title="HTML" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
   <code><img title="CSS" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
-  <code><img title="CSS" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
+  <code><img title="Java" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
 </p>
