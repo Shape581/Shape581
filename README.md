@@ -9,7 +9,6 @@
 <p align="center">
   <code><img title="CSharp" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img title=".NET" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
-  <code><img title="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
   <code><img title="HTML" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
   <code><img title="CSS" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
   <code><img title="Java" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
